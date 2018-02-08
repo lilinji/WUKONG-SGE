@@ -33,6 +33,6 @@ echo "install  HPC-CLUSTER.........."
 
 sleep 30
 ####clear transh
-cd ../../
 
-rm -rf hpc-sdk2
+
+rm -rf /root/WUKONG-SGE
